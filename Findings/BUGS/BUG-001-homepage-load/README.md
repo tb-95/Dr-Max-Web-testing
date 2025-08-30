@@ -26,7 +26,7 @@
 ---
 
 ## 📷 Attachments  
-- Video: `screen-recording.mov`  
+- Video: `video-recording.mov`  
 
 ---
 
