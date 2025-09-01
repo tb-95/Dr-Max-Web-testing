@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Issue Description
-- Briefly and clearly describe what happened.  
+
 - *When click on logo at the top of the page, it will reload page and scroll to one third*  
 
 ---
